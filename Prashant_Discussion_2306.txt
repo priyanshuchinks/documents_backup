@@ -1,0 +1,77 @@
+
+Discussion with Prashant:
+23 June
+
+1. project support? So much aount of work.. had worked 12-13 many of the weeks when no one is the team was working so much.
+Delivered things before timelines.
+Since we dont have much on the team management front, so thought to do all those stuff.
+
+
+
+2. why not redressal?
+It went in redressal
+
+
+Next steps:
+1. So short team?
+
+
+GG:
+Scatterplot should be at the end
+Any dev areas if you wnat, let me know
+2. responsibilities for the next level
+tell myself and ask them too
+
+
+to dont want to miss this chance
+anything 
+
+
+
+
+Lead HR stuff
+Dev Area - 1. continue working with what i was doing
+2. Advancement in SSIS
+
+3. what will be my story board for this year wrt to milestone
+
+I think this year is gonna be more difficult as covid has already impact min 6 months of business
+
+
+I dont want to miss this chance. Really want to be on the scatterplot at the top corner.
+
+
+Data validation - Received closures on half of the extracts. Whatever extracts require code changes that comes to me.
+
+
+
+1.Closure of things
+2.SSIS advancement
+
+
+
+Feedback - Any instant fresh ideas doesn't come from my side.
+
+
+Concern is basically dont have any opportunity for team management. Last year being a part of FIN, used to manage tasks for atleast Deepika and Mukund.
+
+
+
+Gaurav - 24 June
+1. Owned Data validation end to end
+2. Most of the code changes have come to me even for Finance apart from the config things
+3. Now owning HR module
+4. Different ETL tools - Datastage, SSIS. Learnt stored procedures, C#.
+5. Still managed team - Deepika till July.
+
+
+
+
+
+
+
+
+
+
+
+
